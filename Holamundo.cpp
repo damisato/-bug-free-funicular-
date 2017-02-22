@@ -1,5 +1,7 @@
-incliude iostream<>
-using namspace std;
-int main(){ cout<<"Hola mundito"<<endl;
+#include <iostream>
+using namespace std;
+int main()
+{ 
+    cout<<"Hola mundito"<<endl;
 return 0;
 }
