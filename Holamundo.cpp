@@ -1,9 +1,5 @@
 incliude iostream<>
 using namspace std;
-
-int main(){
-
-cout<<"Hola mundo"<<endl;
-
+int main(){ cout<<"Hola mundito"<<endl;
 return 0;
 }
